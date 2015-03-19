@@ -1,6 +1,6 @@
 # playpad
 
-A Matlab audio sampler for all your audio needs.
+An audio sampler for all your audio needs.
 
 <h2>Basics</h2>
 <ul>
