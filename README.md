@@ -1,6 +1,6 @@
 # playpad
 
-A Matlab playpad for all your audio needs.
+A Matlab audio sampler for all your audio needs.
 
 <h2>Basics</h2>
 <ul>
@@ -30,3 +30,9 @@ A Matlab playpad for all your audio needs.
 <li>interactive keyboard or switchboard/dropdown menu</li>
 </ul>
 <h2>Advanced Playback</h2>
+<ul>
+<li>record samples played via buttons in 4/4 time, w/ any BPM</li>
+<li>stop and play the recorded sample</li>
+<li>be able to erase the recorded sample</li>
+</ul>
+<h2>Extra Features</h2>
